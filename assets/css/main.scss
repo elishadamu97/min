@@ -1,0 +1,85 @@
+---
+# Only the main Sass file needs front matter (the dashes are enough)
+search: false
+---
+
+@charset "utf-8";
+
+@import "minimal-mistakes/skins/{{ site.minimal_mistakes_skin | default: 'default' }}"; // skin
+@import "minimal-mistakes"; // main partials
+
+/* possibly useful someday
+.site-subtitle {
+  display: block;
+  font-size: $type-size-8;
+  font-style: italic;
+}
+*/
+
+.page__title {
+  margin-top: 0;
+  line-height: 1;
+  text-align: center;
+
+  a {
+    color: $text-color;
+    text-decoration: none;
+  }
+
+  & + .page__meta {
+    margin-top: -0.5em;
+  }
+}
+
+
+.page__subtitle {
+  display: block;
+  font-size: 1.3em;
+  color: $text-color;
+  font-style: italic;
+  font-weight: bold;
+  text-align: center;
+}
+
+.author__bio {
+    margin: 0;
+    
+    /* changed the defaults here */
+    font-size: 1.3em;
+    font-style: italic;
+    text-align: center;
+  
+    @include breakpoint($large) {
+      margin-top: 10px;
+      margin-bottom: 20px;
+    }
+  }
+
+  .author__avatar {
+    display: table-cell;
+    vertical-align: middle;
+    text-align: center;
+    width: 36px;
+    height: 36px;
+  
+    @include breakpoint($large) {
+      display: block;
+      width: auto;
+      height: auto;
+    }
+  
+    img {
+      max-width: 220px;
+      border-radius: 100%;
+  
+      /* commented out to try get rid of weird avatar border, but doesn't help. I don't know what this does
+
+      @include breakpoint($large) {
+        padding: 5px;
+        border: 1px solid $border-color;
+      }
+
+      */
+    }
+  }
+  
