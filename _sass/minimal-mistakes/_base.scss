@@ -218,7 +218,8 @@ figure {
     > a,
     > img {
       @include breakpoint($small) {
-        width: calc(50% - 0.5em);
+        width: 175px;
+        height: 100%;
       }
     }
 
