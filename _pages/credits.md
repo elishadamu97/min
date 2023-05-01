@@ -165,6 +165,46 @@ gallery_twilight_road_2023:
     image_path: /assets/images/credit_thumbs/tableau_inspiration_125_175_00026.jpg
     alt: "Tableau Inspiration 00026 - Divided Path"
     title: "Photo *Divided Path* by James Wheeler on [Pexels](https://www.pexels.com/photo/photo-of-pathway-surrounded-by-fir-trees-1578750/). Free to use or modify, no attribution required under Pexel’s Legal Simplicity license."
+    - url: /assets/images/originals/pexels-james-wheeler-1578750.jpg
+    image_path: /assets/images/credit_thumbs/tableau_inspiration_125_175_00026.jpg
+    alt: "Tableau Inspiration 00026 - Divided Path"
+    title: "Photo *Divided Path* by James Wheeler on [Pexels](https://www.pexels.com/photo/photo-of-pathway-surrounded-by-fir-trees-1578750/). Free to use or modify, no attribution required under Pexel’s Legal Simplicity license."
+    - url: /assets/images/originals/pexels-james-wheeler-1578750.jpg
+    image_path: /assets/images/credit_thumbs/tableau_inspiration_125_175_00026.jpg
+    alt: "Tableau Inspiration 00026 - Divided Path"
+    title: "Photo *Divided Path* by James Wheeler on [Pexels](https://www.pexels.com/photo/photo-of-pathway-surrounded-by-fir-trees-1578750/). Free to use or modify, no attribution required under Pexel’s Legal Simplicity license."
+    - url: /assets/images/originals/pexels-james-wheeler-1578750.jpg
+    image_path: /assets/images/credit_thumbs/tableau_inspiration_125_175_00026.jpg
+    alt: "Tableau Inspiration 00026 - Divided Path"
+    title: "Photo *Divided Path* by James Wheeler on [Pexels](https://www.pexels.com/photo/photo-of-pathway-surrounded-by-fir-trees-1578750/). Free to use or modify, no attribution required under Pexel’s Legal Simplicity license."
+    - url: /assets/images/originals/pexels-james-wheeler-1578750.jpg
+    image_path: /assets/images/credit_thumbs/tableau_inspiration_125_175_00026.jpg
+    alt: "Tableau Inspiration 00026 - Divided Path"
+    title: "Photo *Divided Path* by James Wheeler on [Pexels](https://www.pexels.com/photo/photo-of-pathway-surrounded-by-fir-trees-1578750/). Free to use or modify, no attribution required under Pexel’s Legal Simplicity license."
+    - url: /assets/images/originals/pexels-james-wheeler-1578750.jpg
+    image_path: /assets/images/credit_thumbs/tableau_inspiration_125_175_00026.jpg
+    alt: "Tableau Inspiration 00026 - Divided Path"
+    title: "Photo *Divided Path* by James Wheeler on [Pexels](https://www.pexels.com/photo/photo-of-pathway-surrounded-by-fir-trees-1578750/). Free to use or modify, no attribution required under Pexel’s Legal Simplicity license."
+    - url: /assets/images/originals/pexels-james-wheeler-1578750.jpg
+    image_path: /assets/images/credit_thumbs/tableau_inspiration_125_175_00026.jpg
+    alt: "Tableau Inspiration 00026 - Divided Path"
+    title: "Photo *Divided Path* by James Wheeler on [Pexels](https://www.pexels.com/photo/photo-of-pathway-surrounded-by-fir-trees-1578750/). Free to use or modify, no attribution required under Pexel’s Legal Simplicity license."
+    - url: /assets/images/originals/pexels-james-wheeler-1578750.jpg
+    image_path: /assets/images/credit_thumbs/tableau_inspiration_125_175_00026.jpg
+    alt: "Tableau Inspiration 00026 - Divided Path"
+    title: "Photo *Divided Path* by James Wheeler on [Pexels](https://www.pexels.com/photo/photo-of-pathway-surrounded-by-fir-trees-1578750/). Free to use or modify, no attribution required under Pexel’s Legal Simplicity license."
+    - url: /assets/images/originals/pexels-james-wheeler-1578750.jpg
+    image_path: /assets/images/credit_thumbs/tableau_inspiration_125_175_00026.jpg
+    alt: "Tableau Inspiration 00026 - Divided Path"
+    title: "Photo *Divided Path* by James Wheeler on [Pexels](https://www.pexels.com/photo/photo-of-pathway-surrounded-by-fir-trees-1578750/). Free to use or modify, no attribution required under Pexel’s Legal Simplicity license."
+    - url: /assets/images/originals/pexels-james-wheeler-1578750.jpg
+    image_path: /assets/images/credit_thumbs/tableau_inspiration_125_175_00026.jpg
+    alt: "Tableau Inspiration 00026 - Divided Path"
+    title: "Photo *Divided Path* by James Wheeler on [Pexels](https://www.pexels.com/photo/photo-of-pathway-surrounded-by-fir-trees-1578750/). Free to use or modify, no attribution required under Pexel’s Legal Simplicity license."
+    - url: /assets/images/originals/pexels-james-wheeler-1578750.jpg
+    image_path: /assets/images/credit_thumbs/tableau_inspiration_125_175_00026.jpg
+    alt: "Tableau Inspiration 00026 - Divided Path"
+    title: "Photo *Divided Path* by James Wheeler on [Pexels](https://www.pexels.com/photo/photo-of-pathway-surrounded-by-fir-trees-1578750/). Free to use or modify, no attribution required under Pexel’s Legal Simplicity license."
 ---
 
 All the images used in our games or on this website have been either permissively licenced (Creative Commons or other open content license), or permission has been explicitly granted to Dyvers Hands Productions, LLC or Christopher Allen by the image creator. Hover over images to see full credits.
