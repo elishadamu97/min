@@ -16,7 +16,7 @@
   {% endif %}
 {% endif %}
 
-<figure class="{{ gallery_layout }} {{ include.class }}">
+<figure class="half">
   {% for img in gallery %}
     {% if img.url %}
       <a href="{{ img.url | relative_url }}"
