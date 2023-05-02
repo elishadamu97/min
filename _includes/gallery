@@ -16,6 +16,15 @@
   {% endif %}
 {% endif %}
 
+<style>
+  @media screen and (max-width: 480px) {
+  img{
+    width: 50px !important;
+    height: auto !important;
+  }
+}
+</style>
+
 <figure class="{{ gallery_layout }} {{ include.class }}">
   {% for img in gallery %}
     {% if img.url %}
