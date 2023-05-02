@@ -7,7 +7,7 @@
 {% if include.layout %}
   {% assign gallery_layout = include.layout %}
 {% else %}
-  {% if gallery.size >= 2 %}
+  {% if gallery.size <= 6 %}
     {% assign gallery_layout = 'half' %}
   {% elsif gallery.size >= 5 %}
     {% assign gallery_layout = 'third' %}
