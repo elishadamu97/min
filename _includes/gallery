@@ -19,7 +19,7 @@
 <style>
   @media screen and (max-width: 480px) {
   img{
-    width: 50px !important;
+    width: 100px !important;
     height: auto !important;
   }
 }
