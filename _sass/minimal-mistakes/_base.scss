@@ -233,7 +233,7 @@ figure {
     > a,
     > img {
       @include breakpoint($small) {
-        width: 80px;
+        width: 50px;
         height: auto;
      }
     }
